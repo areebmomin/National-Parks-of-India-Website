@@ -26,9 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-
-
-##After the Angular installation you have to setup the Firebase project:
+## After the Angular installation you have to setup the Firebase project:
 
 1) Browse to the firebase.io and create a new project, enter the name of your choice.
 
