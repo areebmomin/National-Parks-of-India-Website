@@ -32,6 +32,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 2) Now download the google-service.xml file for web to connect the front-end with the firebase. If you dont know how to add this file just goto firebase.io/docs for more reference.
 
-3)If the image is not uploading kindly setup the firebase storage to upload the pictures.visit firebase.io/docs for more reference.
+3) If the image is not uploading kindly setup the firebase storage to upload the pictures.visit firebase.io/docs for more reference.
 
-4)That it.
+4) That it.
