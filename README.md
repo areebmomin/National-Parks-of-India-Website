@@ -35,3 +35,23 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 3) If the image is not uploading kindly setup the firebase storage to upload the pictures.visit firebase.io/docs for more reference.
 
 4) That it.
+
+## Screenshots:
+
+<br />
+
+> **_NOTE:_**  Please find complete screenshots in [Screenshots](https://github.com/areebmomin/National-Parks-of-India-Website/tree/master/National%20parks%20screenshots) folder.
+
+<br />
+
+![alt text](https://github.com/areebmomin/National-Parks-of-India-Website/blob/master/National%20parks%20screenshots/Capture.PNG?raw=true)
+
+<br />
+
+![alt text](https://github.com/areebmomin/National-Parks-of-India-Website/blob/master/National%20parks%20screenshots/Capture1.PNG?raw=true)
+
+<br />
+
+![alt text](https://github.com/areebmomin/National-Parks-of-India-Website/blob/master/National%20parks%20screenshots/Capture2.PNG?raw=true)
+
+<br />
